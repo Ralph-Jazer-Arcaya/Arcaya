@@ -1,0 +1,46 @@
+h2 {
+	padding-left:520px;
+}
+.rounded-image{
+	height:250px;
+	width:250px;
+	border-radius:50%;
+	text-align:center;
+	border:5px solid black;
+}
+.work img{
+	height:100px;
+	width:100px;
+	border-radius:50%;
+	border: 2px solid black;
+	position:absolute;
+}
+.info a{
+	display:inline-block;
+	padding: 0px 110px 0px 100px;
+	color:black;
+}
+.experience li{
+	position:relative;
+	font-size:20px;
+	font-family:Calibri;
+	color:black;
+	padding-left:110px;
+}
+.experience p{
+	position:relative;
+	font-size:12px;
+	font-family:Calibri;
+	color:black;
+	padding-left:150px;
+}
+.contact{
+	font-size:50px;
+	font-family:Tahoma;
+	color:grey;
+	padding-left:400px;
+}
+body {
+	position:absolute;
+	color:black;
+}
